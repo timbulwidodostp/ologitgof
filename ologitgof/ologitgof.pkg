@@ -1,4 +1,13 @@
-D 'DEA': Data envelopment analysis
+D 'ologitgof': Goodness-of-fit tests for ordinal logistic regression Use ologitgof With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F adjcatlogit.ado
+F adjcatlogit.sthlp
+F adjcatlogit_p.ado
+F ccrlogit.ado
+F ccrlogit.sthlp
+F ccrlogit_p.ado
+F ologitgof.ado
+F ologitgof.sthlp
+F ucrlogit.ado
+F ucrlogit.sthlp
+F ucrlogit_p.ado
